@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #e20000;
+    background-color: #ffffff;
 }
 
 
@@ -39,7 +39,6 @@ section {
     height: 606px;
     padding: 40px;
     margin: 0 auto;
-    background-color: #e20000;
 }
 
 /* posicionamento para a imagem à direita */
@@ -139,7 +138,7 @@ h2 {
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #d88d02;
 }
 .menu-acessibilidade{
     position: fixed;
